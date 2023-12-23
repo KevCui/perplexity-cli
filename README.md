@@ -4,11 +4,10 @@
 
 # Table of Contents
 
-- [perplexity-cli](#perplexity-cli)
-  - [Dependency](#dependency)
-  - [Installation](#installation)
-  - [How to use](#how-to-use)
-  - [Note](#note)
+- [Dependency](#dependency)
+- [Installation](#installation)
+- [How to use](#how-to-use)
+- [Note](#note)
 
 ## Dependency
 
