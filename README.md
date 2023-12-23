@@ -8,6 +8,7 @@
   - [Dependency](#dependency)
   - [Installation](#installation)
   - [How to use](#how-to-use)
+  - [Note](#note)
 
 ## Dependency
 
