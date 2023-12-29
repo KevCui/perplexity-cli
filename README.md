@@ -34,7 +34,7 @@ $ ./perplexity.js "enter any text here"
 $ ./perplexity-labs.js "enter any text here"
 ```
 
-LLM `pplx-70b-online` is selected by default. It can be changed to your preferred one in the script.
+LLM `pplx-70b-online` is selected by default. Set the second argument as model name to select another model, for example: `./perplexity-labs.js "text" "pplx-7b-online"`.
 
 ## Note
 
