@@ -22,9 +22,19 @@ npx playwright install firefox
 
 ## How to use
 
+- `perplexity.js` fetches result from `https://www.perplexity.ai/`:
+
 ```bash
 $ ./perplexity.js "enter any text here"
 ```
+
+- `perplexity-labs.js` fetches result from `https://labs.perplexity.ai/`:
+
+```bash
+$ ./perplexity-labs.js "enter any text here"
+```
+
+LLM `pplx-70b-online` is selected by default. It can be changed to your preferred one in the script.
 
 ## Note
 
