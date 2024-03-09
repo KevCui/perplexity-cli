@@ -4,7 +4,7 @@ const { chromium } = require('playwright-chromium');
 
 const url = 'https://labs.perplexity.ai/';
 const searchText = process.argv[2];
-const llm = (process.argv[3] === undefined) ? 'pplx-70b-online' : process.argv[3];
+const llm = (process.argv[3] === undefined) ? 'sonar-medium-online' : process.argv[3];
 const selectList = '#lamma-select';
 const textArea = 'textarea[placeholder="Ask anything..."]';
 const buttonAskPerplexity = '.umami--click--ask_perplexity_redirect';

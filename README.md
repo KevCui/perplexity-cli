@@ -34,7 +34,7 @@ $ ./perplexity.js "enter any text here"
 $ ./perplexity-labs.js "enter any text here"
 ```
 
-LLM `pplx-70b-online` is selected by default. Set the second argument as model name to select another model, for example: `./perplexity-labs.js "text" "pplx-7b-online"`.
+LLM `sonar-medium-online` is selected by default. Set the second argument as model name to select another model, for example: `./perplexity-labs.js "text" "codellama-70b-instruct"`.
 
 ## Note
 
