@@ -11,13 +11,13 @@
 
 ## Dependency
 
-- [playwright-firefox](https://github.com/Microsoft/playwright)
+- [playwright-chromium](https://github.com/Microsoft/playwright)
 
 ## Installation
 
 ```bash
-npm i playwright-firefox
-npx playwright install firefox
+npm i playwright-chromium
+npx playwright install chromium
 ```
 
 ## How to use
